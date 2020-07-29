@@ -1,39 +1,57 @@
-.education{
-    margin-top: 40px;
-  
-    .title {
-      font-weight: 600;
-      font-size: 30px;
-      position: relative;
+.education {
+  margin-top: 40px;
+
+  .title {
+    font-weight: 600;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    &:before {
+      content: "";
+      position: absolute;
+      bottom: -0.35rem;
+      height: 4px;
+      background: rgb(251, 205, 12);
+      width: 20px;
+      left: 0px;
+    }
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: -0.35rem;
+      height: 4px;
+      background: rgb(251, 205, 12);
+      width: 108px;
+      left: 25px;
+    }
+  }
+
+  .content {
+    background-color: rgb(235, 235, 235);
+    line-height: 1.5em;
+    margin-top: 50px;
+  }
+
+  .contenteducation {
+    padding: 2px 40px 40px 40px;
+
+    p {
       text-align: center;
+      font-size: 25px;
+      font-weight: 600;
+      position: relative;
+      padding-bottom: 15px;
+
       &:before {
         content: "";
         position: absolute;
-        bottom: -0.35rem;
-        height: 4px;
-        background: rgb(251, 205, 12);
-        width: 20px;
-        left: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0px;
+        height: 2px;
+        width: 40%;
+        background: rgb(0, 0, 0);
       }
-      &:after {
-        content: "";
-        position: absolute;
-        bottom: -0.35rem;
-        height: 4px;
-        background: rgb(251, 205, 12);
-        width: 108px;
-        left: 25px;
-      }
-    }
-  
-    .content {
-      background-color: rgb(235, 235, 235);
-      line-height: 1.5em;
-      margin-top: 50px;
-    }
-  
-    .contenteducation{
-      padding: 40px;
     }
   }
-  
+}
