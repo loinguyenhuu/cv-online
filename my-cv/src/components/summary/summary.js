@@ -7,18 +7,16 @@ const Summary = () => {
       <span className="title">Summary</span>
       <div className="content">
           <div className="contentsummary">
-        Hi, I'm Pham Van Khanh, a Front-end developer with 3 years of
+        Hi, I'm Nguyen Huu Loi, a Front-end developer with 1 years of
         experience.
         <br />
-        My main skills: ReactJS, Mobile-First Web Design
+        My main skills: ReactJS, Mobile-First Web Design, HTML, CSS.
         <br />
-        I especially like learning JavaScript (and it's libraries), TypeScript,
-        finding ways to optimize and increase performance
+        Strong in design and integration problem-solving skill.
         <br />
-        I like (deep) talking and chilling with other people. I was excited by
-        the colorful things.
+        Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research.
         <br />
-        My hobbies: reading, playing guitar, singing (but not really good)...
+        My hobbies: photograph, patin, playing guitar and singing (but not really good)...
         </div>
       </div>
     </div>
