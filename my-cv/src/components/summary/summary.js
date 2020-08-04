@@ -16,7 +16,7 @@ const Summary = () => {
         <br />
         Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research.
         <br />
-        My hobbies: photograph, patin, playing guitar and singing (but not really good)...
+        My hobbies: photograph, patin, playing guitar and read the book...
         </div>
       </div>
     </div>
