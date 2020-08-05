@@ -21,7 +21,8 @@
       justify-content: center;
 
       @include sp {
-        background-color: grey;
+        flex-direction: column;
+        align-items: center;
       }
   
       span {

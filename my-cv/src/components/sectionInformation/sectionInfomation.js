@@ -1,5 +1,4 @@
 import React from "react";
-import "./sectionInformation.scss";
 
 const SectionInformation =  () => {
   return (
