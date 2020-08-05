@@ -19,6 +19,10 @@
       margin-top: 30px;
       display: flex;
       justify-content: center;
+
+      @include sp {
+        background-color: grey;
+      }
   
       span {
         font-weight: 600;

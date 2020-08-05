@@ -1,0 +1,9 @@
+/*
+🌟 common mixins
+*/
+
+@mixin sp() {
+    @media (max-width: $WIDTH-XS) {
+      @content;
+    }
+}
