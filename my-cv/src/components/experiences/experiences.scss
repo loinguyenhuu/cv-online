@@ -29,6 +29,12 @@
   .content {
     line-height: 1.5em;
     margin-top: 50px;
+
+    @include sp {
+      padding: 30px;
+      width: 85%;
+      margin-top: 0;
+    }
   }
 
   .NTTDATA {

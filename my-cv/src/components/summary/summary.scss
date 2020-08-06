@@ -29,6 +29,11 @@
     background-color: rgb(235, 235, 235);
     line-height: 1.5em;
     margin-top: 50px;
+
+    @include sp {
+      margin: 30px;
+      width: 84%;
+    }
   }
 
   .contentsummary {
