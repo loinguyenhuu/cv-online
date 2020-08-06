@@ -7,7 +7,7 @@ const Experiences = () => {
       <div className="content">
         <div className="NTTDATA">
           <p>NTT DATA VIET NAM</p>
-          <ul className="mb-0">
+          <ul>
             <li>Time: 05/2019 - Present</li>
 
             <li>Role: Front-end developer</li>

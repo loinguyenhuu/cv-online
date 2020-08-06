@@ -1,61 +1,70 @@
 .sectioninfomation {
-    text-align: center;
-    background-color: rgb(251, 205, 11);
-    padding: 50px;
+  text-align: center;
+  background-color: rgb(251, 205, 11);
+  padding: 50px;
+
+  @include sp {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
 
     @include sp {
-      width: 70%;
-      margin: 30px;
-    }
-  
-    img {
-      height: 300px;
-      width: 300px;
-      border-radius: 50%;
-    }
-  
-    .infname {
-      font-size: 2.5rem;
-      font-weight: 500;
-      margin-top: 30px;
-    }
-  
-    .information {
-      margin-top: 30px;
-      display: flex;
-      justify-content: center;
-
-      @include sp {
-        flex-direction: column;
-        align-items: center;
-        font-size: 20px;
-      }
-  
-      span {
-        font-weight: 600;
-      }
-  
-      a {
-        text-decoration: none;
-        color:#000000; 
-        padding-left: 6px;
-        font-weight:normal; 
-      }
-  
-      .datephone {
-        text-align: left;
-        padding-right: 120px;
-        line-height: 1.5em;
-
-        @include sp {
-          padding-right: 66px;
-        }
-      }
-  
-      .emailfacebook{
-        text-align: left;
-        line-height: 1.5em;
-      }
+      height: 200px;
+      width: 200px;
     }
   }
-  
+
+  .infname {
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-top: 30px;
+
+    @include sp {
+      font-size: 2rem;
+    }
+  }
+
+  .information {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+
+    @include sp {
+      flex-direction: column;
+      align-items: center;
+      font-size: 19px;
+    }
+
+    span {
+      font-weight: 600;
+    }
+
+    a {
+      text-decoration: none;
+      color: #000000;
+      padding-left: 6px;
+      font-weight: normal;
+    }
+
+    .datephone {
+      text-align: left;
+      padding-right: 120px;
+      line-height: 1.5em;
+
+      @include sp {
+        padding-right: 66px;
+      }
+    }
+
+    .emailfacebook {
+      text-align: left;
+      line-height: 1.5em;
+    }
+  }
+}
