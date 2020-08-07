@@ -5,17 +5,18 @@ import Summary from "./components/summary/summary.js";
 import Skills from "./components/skills/skills";
 import Experiences from "./components/experiences/experiences";
 import Education from "./components/education/education";
+import SectionWrapper from "./components/sectionwrapper/sectionwrapper"
 
 function App() {
   return (
     <>
-      <div className="wrapper">
+      <SectionWrapper>
         <SectionInformation />
         <Summary />
         <Skills />
         <Experiences />
         <Education />
-      </div>
+      </SectionWrapper>
     </>
   );
 }

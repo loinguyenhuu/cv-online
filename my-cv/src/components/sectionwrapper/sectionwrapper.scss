@@ -1,0 +1,8 @@
+.wrapper {
+    padding: 0 50px;
+
+    @include sp {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}

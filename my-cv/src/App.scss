@@ -1,17 +1,8 @@
 @import './assets/scss/variables';
 @import './assets/scss/mixins';
+@import './components/sectionwrapper/sectionwrapper.scss';
 @import './components/sectionInformation/sectionInformation.scss';
 @import './components/summary/summary.scss';
 @import './components/skills/skills.scss';
 @import './components/experiences/experiences.scss';
 @import './components/education/education.scss';
-
-
-.wrapper {
-    padding: 0 50px;
-
-    @include sp {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-}
