@@ -7,3 +7,23 @@
       @content;
     }
 }
+
+@mixin linebefore {
+  content: "";
+  position: absolute;
+  bottom: -0.35rem;
+  height: 4px;
+  background: $COLOR-MAIN;
+  width: 20px;
+  left: 0px;
+}
+
+@mixin lineafter {
+  content: "";
+  position: absolute;
+  bottom: -0.35rem;
+  height: 4px;
+  background: $COLOR-MAIN;
+  width: 108px;
+  left: 25px;
+}

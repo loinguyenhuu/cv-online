@@ -1,10 +1,11 @@
 import React from "react";
+import AVT from "../../assets/image/avt.jpg"
 
 const SectionInformation =  () => {
   return (
     <div className="sectioninfomation">
       <div>
-        <img src="https://image.freepik.com/free-vector/abstract-dynamic-pattern-wallpaper-vector_53876-59131.jpg" />
+        <img src={AVT} />
       </div>
       <div className="infname">
         <span>NGUYỄN HỮU LỢI</span>

@@ -1,6 +1,6 @@
 .sectioninfomation {
   text-align: center;
-  background-color: rgb(251, 205, 11);
+  background-color: $COLOR-MAIN;
   padding: 50px;
 
   @include sp {

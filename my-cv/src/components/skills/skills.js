@@ -43,13 +43,12 @@ const Skills = () => {
 
                   <li>
                     Have experience optimizing React performance (by using
-                    PureComponent, React.memo, memoization, restructuring
+                    PureComponent, memoization, restructuring
                     components...)
                   </li>
 
                   <li>
-                    ReactJS middlewares &amp; libraries: redux-thunk,
-                    redux-saga, styled-components,...
+                    ReactJS middlewares &amp; libraries: redux-thunk, styled-components,...
                   </li>
 
                   <li>Others: Gatsby...</li>
@@ -67,8 +66,6 @@ const Skills = () => {
               <li>Agile, Scrum</li>
 
               <li>SOLID principles</li>
-
-              <li>RESTful API</li>
 
               <li>Git</li>
 

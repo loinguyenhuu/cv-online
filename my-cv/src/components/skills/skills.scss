@@ -7,23 +7,11 @@
     position: relative;
     text-align: center;
     &:before {
-      content: "";
-      position: absolute;
-      bottom: -0.35rem;
-      height: 4px;
-      background: rgb(251, 205, 12);
-      width: 20px;
-      left: 0px;
-    }
-    &:after {
-      content: "";
-      position: absolute;
-      bottom: -0.35rem;
-      height: 4px;
-      background: rgb(251, 205, 12);
-      width: 44px;
-      left: 25px;
-    }
+      @include linebefore;
+     }
+     &:after {
+      @include lineafter;
+     }
   }
 
   .content {
@@ -44,7 +32,7 @@
 
   .commonknowledge {
     padding: 40px;
-    background-color: rgb(235, 235, 235);
+    background-color:  $COLORT-CONTENT-BACKGROUND;
   }
 
   .contentwrapperright  {
@@ -59,7 +47,7 @@
 
   .contentwrapperleft  {
     width: 48%;
-    background-color: rgb(235, 235, 235);
+    background-color:  $COLORT-CONTENT-BACKGROUND;
 
     @include sp {
       width: 100%;
@@ -71,13 +59,13 @@
   .softskill {
     margin-top: 30px;
     padding: 40px;
-    background-color: rgb(235, 235, 235);
+    background-color:  $COLORT-CONTENT-BACKGROUND;
   }
 
   .skillbackend {
     margin-top: 30px;
     padding: 40px;
-    background-color: rgb(235, 235, 235);
+    background-color:  $COLORT-CONTENT-BACKGROUND;
   }
 
   p {
