@@ -1,5 +1,6 @@
 .wrapper {
-    padding: 0 50px;
+    max-width: 1000px;
+    margin: auto;
 
     @include sp {
         padding-left: 20px;
