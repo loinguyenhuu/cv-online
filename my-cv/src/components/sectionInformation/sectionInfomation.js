@@ -34,8 +34,8 @@ const SectionInformation =  () => {
           </div>
           <div>
             <span>
-              Facebook: 
-              <a href="/loi.nguyenhuu.731">/loi.nguyenhuu.731</a>
+              Address: 
+              <a href="1168/55 Trường Sa, phường 13, Phú Nhuận, TPHCM">Phú Nhuận - TPHCM</a>
             </span>
           </div>
         </div>

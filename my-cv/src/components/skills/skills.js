@@ -75,7 +75,7 @@ const Skills = () => {
           <div className="skillbackend">
             <p>Back-end</p>
             <ul>
-              <li>java: JPA, MVC,...</li>
+              <li>Java: JPA, MVC,...</li>
 
               <li>Database: MySQL, MongoDB</li>
             </ul>
@@ -83,7 +83,7 @@ const Skills = () => {
           <div className="softskill">
             <p>Soft skill</p>
             <ul>
-              <li>Good at researching new technologies</li>
+              <li>Willing learn new technologies</li>
 
               <li>Good communication with teammates</li>
 

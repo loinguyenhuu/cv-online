@@ -41,15 +41,6 @@ const Experiences = () => {
             <li>Technologies: Java </li>
 
             <li>
-              Previous positions with Zamo LLC company:
-              <ul>
-                <li>
-                  My work experience included apply sprint in work task with
-                  team, estimate time complete task with team and leader.
-                </li>
-              </ul>
-            </li>
-            <li>
               Development:
               <ul>
                 <li>
@@ -73,17 +64,6 @@ const Experiences = () => {
 
             <li>Technologies: Angular 4 and .NET Core</li>
 
-            <li>
-              Previous positions with Orient Software Development Corp. Vietnam:
-              <ul>
-                <li>
-                  My work experience included innovation in many areas,
-                  including strategies for a more effective teamwork. Designing
-                  wireframe and working closely with Director and Project
-                  Manager
-                </li>
-              </ul>
-            </li>
             <li>
               Development:
               <ul>
