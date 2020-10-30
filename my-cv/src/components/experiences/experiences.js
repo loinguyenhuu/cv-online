@@ -6,7 +6,7 @@ const Experiences = () => {
       <span className="title">Experiences</span>
       <div className="content">
         <div className="NTTDATA">
-          <p>NTT DATA VIET NAM</p>
+          <p>NTTDATA VIETNAM Co.,Ltd</p>
           <ul>
             <li>Time: 05/2019 - Present</li>
 
@@ -32,7 +32,7 @@ const Experiences = () => {
           </ul>
         </div>
         <div className="ZAMO">
-          <p>ZAMO</p>
+          <p>ZAMO LLC Company</p>
           <ul>
             <li>Time: 10/2018 - 04/2019</li>
 
@@ -56,7 +56,7 @@ const Experiences = () => {
           </ul>
         </div>
         <div className="ORIENT">
-          <p>ORIENT SOFTWARE</p>
+          <p>Orient Software Development Corp.Vietnam</p>
           <ul>
             <li>Time: 03/2018 - 06/2018</li>
 
