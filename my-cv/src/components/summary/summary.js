@@ -6,8 +6,7 @@ const Summary = () => {
       <span className="title">Summary</span>
       <div className="content">
         <div className="contentsummary">
-          Hi, I'm Nguyen Huu Loi, a Front-end developer with 1,5 years of
-          experience.
+          Hi, I'm Nguyen Huu Loi, a Front-end engineering with 1,5 years of experience.
           <br />
           My main skills: ReactJS, Mobile-First Web Design, HTML, CSS.
           <br />
