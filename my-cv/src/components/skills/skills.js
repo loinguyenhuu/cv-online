@@ -32,7 +32,7 @@ const Skills = () => {
               <br />
 
               <li>
-                ReactJS
+                ReactJS and basic VueJS
                 <ul>
                   <li>
                     Solid understanding of React concepts: Virtual DOM,
