@@ -43,7 +43,7 @@ const Skills = () => {
 
                   <li>
                     Have experience optimizing React performance (by using
-                    PureComponent, memoization, restructuring
+                    PureComponent, restructuring
                     components...)
                   </li>
 
@@ -83,7 +83,7 @@ const Skills = () => {
           <div className="softskill">
             <p>Soft skill</p>
             <ul>
-              <li>Willing learn new technologies</li>
+              <li>Good at researching new technologies</li>
 
               <li>Good communication with teammates</li>
 

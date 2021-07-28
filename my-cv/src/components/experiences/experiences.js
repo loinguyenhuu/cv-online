@@ -25,7 +25,7 @@ const Experiences = () => {
         <div className="NTTDATA">
           <p>NTTDATA VIETNAM Co.,Ltd</p>
           <ul>
-            <li>Time: 05/2019 - Present</li>
+            <li>Time: 05/2019 - 02/2021</li>
 
             <li>Role: Front-end developer</li>
 
