@@ -29,7 +29,7 @@ const SectionInformation =  () => {
           <div>
             <span>
               Email:
-              <a href="mail:lyonguyen311@gmail.com">lyonguyen311@gmail.com</a>
+              <a href="mail:lyonguyen311@gmail.com">nguyenhuuloi080196@gmail.com</a>
             </span>
           </div>
           <div>

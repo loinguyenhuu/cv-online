@@ -6,7 +6,7 @@ const Summary = () => {
       <span className="title">Summary</span>
       <div className="content">
         <div className="contentsummary">
-          Hi, I'm Nguyen Huu Loi, a Front-end engineering with 1,5 years of experience.
+          Hi, I'm Nguyen Huu Loi, a Front-end engineering with 2 years of experience.
           <br />
           My main skills: ReactJS, Mobile-First Web Design, HTML, CSS.
           <br />
@@ -15,7 +15,7 @@ const Summary = () => {
           Skilled in developing business plans, requirements specifications,
           user documentation, and architectural systems research.
           <br />
-          My hobbies: photograph, patin, guitar playing and book reading...
+          Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.
         </div>
       </div>
     </div>

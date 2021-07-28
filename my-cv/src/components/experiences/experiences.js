@@ -5,6 +5,23 @@ const Experiences = () => {
     <div className="experiences">
       <span className="title">Experiences</span>
       <div className="content">
+      <div className="TGL">
+          <p>TGL Solutions</p>
+          <ul>
+            <li>Time: 03/2021 - Present</li>
+
+            <li>Role: Front-end developer (Leader)</li>
+
+            <li>Technologies: VueJS, HTML, CSS, Javascript</li>
+
+            <li>
+            Project:
+              <ul>
+                <li>Donkihote project (main project) and House project: ecommerce website using vueJS, AxService and apply NuxtJS in project.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
         <div className="NTTDATA">
           <p>NTTDATA VIETNAM Co.,Ltd</p>
           <ul>

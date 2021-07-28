@@ -20,7 +20,7 @@ const Skills = () => {
 
                   <li>
                     Solid understanding of JavaScript concepts: Promise,
-                    async/await, DOM manipulation...
+                    async/await, generator function, DOM manipulation...
                   </li>
 
                   <li>Mobile-First Web Design</li>
@@ -39,11 +39,11 @@ const Skills = () => {
                     Component lifecycle, PureComponent, Hooks,...
                   </li>
 
-                  <li>Understanding about Immutability in Redux, React</li>
+                  <li>Deep understanding about Immutability in Redux, React</li>
 
                   <li>
                     Have experience optimizing React performance (by using
-                    PureComponent, restructuring
+                    PureComponent, memoization, restructuring
                     components...)
                   </li>
 
