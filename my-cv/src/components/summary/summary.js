@@ -6,9 +6,9 @@ const Summary = () => {
       <span className="title">Summary</span>
       <div className="content">
         <div className="contentsummary">
-          Hi, I'm Nguyen Huu Loi, a Front-end engineering with 2 years of experience.
+          Hi, I'm Nguyen Huu Loi, a Front-end engineering with  over 3 years of experience.
           <br />
-          My main skills: ReactJS, Mobile-First Web Design, HTML, CSS.
+          My main skills: VueJS, ReactJS, Mobile-First Web Design, HTML, CSS.
           <br />
           Strong in design and integration problem-solving skill.
           <br />

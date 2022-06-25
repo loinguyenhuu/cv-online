@@ -5,19 +5,41 @@ const Experiences = () => {
     <div className="experiences">
       <span className="title">Experiences</span>
       <div className="content">
-      <div className="TGL">
+      <div className="devBlock">
+          <p>DEVBLOCK VIETNAM</p>
+          <ul>
+            <li>Time: 09/2021 - Present</li>
+
+            <li>Role: Front-end developer</li>
+
+            <li>Technologies: VueJS, HTML, CSS, Javascript</li>
+
+            <li>
+              Project:
+              <ul>
+                <li>
+                  Linkit! System: this is education system from testing online to report online. It is using for teacher, parent and administrator for management test, information student in school, class and district. 
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div className="TGL">
           <p>TGL Solutions</p>
           <ul>
-            <li>Time: 03/2021 - Present</li>
+            <li>Time: 03/2021 - 08/2021</li>
 
             <li>Role: Front-end developer (Leader)</li>
 
             <li>Technologies: VueJS, HTML, CSS, Javascript</li>
 
             <li>
-            Project:
+              Project:
               <ul>
-                <li>Donkihote project (main project) and House project: ecommerce website using vueJS, AxService and apply NuxtJS in project.</li>
+                <li>
+                  Donkihote project (main project) and House project: ecommerce
+                  website using vueJS, AxService and apply NuxtJS in project.
+                </li>
               </ul>
             </li>
           </ul>

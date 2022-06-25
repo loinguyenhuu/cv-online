@@ -32,7 +32,7 @@ const Skills = () => {
               <br />
 
               <li>
-                ReactJS and basic VueJS
+                ReactJS and VueJS
                 <ul>
                   <li>
                     Solid understanding of React concepts: Virtual DOM,
@@ -41,9 +41,11 @@ const Skills = () => {
 
                   <li>Deep understanding about Immutability in Redux, React</li>
 
+                  <li>Understanding about lifecycle, hooks and state management (vueX) in vueJS</li>
+
                   <li>
                     Have experience optimizing React performance (by using
-                    PureComponent, restructuring
+                    PureComponent, restructuring 
                     components...)
                   </li>
 
