@@ -8,7 +8,7 @@ const SectionInformation =  () => {
         <img src={AVT} />
       </div>
       <div className="infname">
-        <span>NGUYỄN HỮU LỢI</span>
+        <span>NGUYEN HUU LOI</span>
       </div>
       <div className="information">
         <div className="datephone">
@@ -35,7 +35,7 @@ const SectionInformation =  () => {
           <div>
             <span>
               Address: 
-              <a href="1168/55 Trường Sa, phường 13, Phú Nhuận, TPHCM">Phú Nhuận - TPHCM</a>
+              <a href="24/13 Trần Bình Trọng, Phường Bình Lợi Trung, Binh Thanh District, Ho Chi Minh City">Binh Thanh District, Ho Chi Minh City</a>
             </span>
           </div>
         </div>

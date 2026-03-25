@@ -6,16 +6,15 @@ const Summary = () => {
       <span className="title">Summary</span>
       <div className="content">
         <div className="contentsummary">
-          Hi, I'm Nguyen Huu Loi, a Front-end engineering with  over 3 years of experience.
+          <strong>5+ years in software development:</strong> Front-End Engineer with strong experience building scalable web applications in enterprise and product environments.
           <br />
-          My main skills: VueJS, ReactJS, Mobile-First Web Design, HTML, CSS.
+          <strong>Full lifecycle development experience:</strong> Skilled in delivering production-ready features from requirement discussion, technical estimation to implementation and release.
           <br />
-          Strong in design and integration problem-solving skill.
+          <strong>Ownership & problem-solving:</strong> Recognized for strong ownership, proactive communication, and the ability to resolve complex technical issues while maintaining high product quality.
           <br />
-          Skilled in developing business plans, requirements specifications,
-          user documentation, and architectural systems research.
+          <strong>Engineering mindset:</strong> Focused on building maintainable front-end architectures, improving development workflows, and enhancing team collaboration.
           <br />
-          Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.
+          <strong>Career objective:</strong> Continuously growing as a Front-End Engineer with a long-term focus on system design, product thinking, and delivering reliable, scalable products.
         </div>
       </div>
     </div>

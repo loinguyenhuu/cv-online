@@ -13,8 +13,8 @@ function App() {
       <SectionWrapper>
         <SectionInformation />
         <Summary />
-        <Skills />
         <Experiences />
+        <Skills />
         <Education />
       </SectionWrapper>
     </>

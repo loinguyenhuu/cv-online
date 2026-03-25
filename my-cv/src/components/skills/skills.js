@@ -5,100 +5,37 @@ const Skills = () => {
     <div className="skills">
       <span className="title">Skills</span>
       <div className="content">
-        <div className="contentwrapperleft">
-          <div className="skillfrontend">
-            <p>Front-end</p>
-            <ul>
-              <li>
-                Basic
-                <ul>
-                  <li>HTML5, CSS3 (Flexbox, Grid...)</li>
-
-                  <li>CSS methodologies: BEM,...</li>
-
-                  <li>CSS preprocessor: SASS</li>
-
-                  <li>
-                    Solid understanding of JavaScript concepts: Promise,
-                    async/await, generator function, DOM manipulation...
-                  </li>
-
-                  <li>Mobile-First Web Design</li>
-
-                  <li>Have knowledge of color theory, typography</li>
-                </ul>
-              </li>
-
-              <br />
-
-              <li>
-                ReactJS and VueJS
-                <ul>
-                  <li>
-                    Solid understanding of React concepts: Virtual DOM,
-                    Component lifecycle, PureComponent, Hooks,...
-                  </li>
-
-                  <li>Deep understanding about Immutability in Redux, React</li>
-
-                  <li>Understanding about lifecycle, hooks and state management (vueX) in vueJS</li>
-
-                  <li>
-                    Have experience optimizing React performance (by using
-                    PureComponent, restructuring 
-                    components...)
-                  </li>
-
-                  <li>
-                    ReactJS middlewares &amp; libraries: redux-thunk, styled-components,...
-                  </li>
-
-                  <li>Others: Gatsby...</li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div className="contentwrapperright">
-          <div className="commonknowledge">
-            <p>Common knowledge</p>
-            <ul>
-              <li>Understanding about OOP</li>
-
-              <li>Agile, Scrum</li>
-
-              <li>SOLID principles</li>
-
-              <li>Git</li>
-
-              <li>Preferred editor: VSCode</li>
-            </ul>
-          </div>
-          <div className="skillbackend">
-            <p>Back-end</p>
-            <ul>
-              <li>Java: JPA, MVC,...</li>
-
-              <li>Database: MySQL, MongoDB</li>
-            </ul>
-          </div>
-          <div className="softskill">
-            <p>Soft skill</p>
-            <ul>
-              <li>Good at researching new technologies</li>
-
-              <li>Good communication with teammates</li>
-
-              <li>High responsibility</li>
-
-              <li>Positive thinking</li>
-
-              <li>English documents reading</li>
-
-              <li>Basic English communication</li>
-            </ul>
-          </div>
-        </div>
+        <strong>Front-End Development</strong>
+        <br />
+          HTML5, CSS3, JavaScript (ES6+), Responsive & Mobile-First Web Design
+        <br />
+        <strong>Frameworks & Libraries</strong>
+        <br />
+          Strong experience with Vue.js and React, including component-based architecture, lifecycle management, hooks, and modern state management patterns.
+        <br />
+        <strong>State Management</strong>
+        <br />
+          Experience managing complex application state using Vuex and Redux with strong understanding of immutability principles.
+        <br />
+        <strong>Performance Optimization</strong>
+        <br />
+          Experience optimizing front-end performance through component restructuring, efficient rendering strategies, and React optimization techniques such as PureComponent and memoization.
+        <br />
+        <strong>Component Architecture</strong>
+        <br />
+          Experience building reusable UI components and managing component libraries using Storybook.
+        <br />
+        <strong>Styling & UI Development</strong>
+        <br />
+          Flexbox, CSS Grid, SASS, CSS architecture methodologies such as BEM.
+        <br />
+        <strong>Engineering Practices</strong>
+        <br />
+          Agile/Scrum, Git version control, SOLID principles, cross-team collaboration.
+        <br />
+        <strong>UI/UX Awareness</strong>
+        <br />      
+          Understanding of color theory, typography, and pixel-perfect UI implementation.
       </div>
     </div>
   );

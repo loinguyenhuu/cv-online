@@ -8,64 +8,20 @@
     text-align: center;
     &:before {
       @include linebefore;
-     }
-     &:after {
+    }
+    &:after {
       @include lineafter;
-     }
+    }
   }
 
   .content {
     line-height: 1.5em;
     margin-top: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
+    background-color:  $COLORT-CONTENT-BACKGROUND;
+    padding: 40px;
     @include sp {
       flex-direction: column;
     }
-  }
-
-  .skillfrontend {
-    padding: 40px;
-  }
-
-  .commonknowledge {
-    padding: 40px;
-    background-color:  $COLORT-CONTENT-BACKGROUND;
-  }
-
-  .contentwrapperright  {
-    width: 47%;
-
-    @include sp {
-      width: 100%;
-      margin-left: 0;
-      margin-top: 30px;
-    }
-  }
-
-  .contentwrapperleft  {
-    width: 48%;
-    background-color:  $COLORT-CONTENT-BACKGROUND;
-
-    @include sp {
-      width: 100%;
-      margin-left: 0;
-      margin-top: 30px;
-    }
-  }
-
-  .softskill {
-    margin-top: 30px;
-    padding: 40px;
-    background-color:  $COLORT-CONTENT-BACKGROUND;
-  }
-
-  .skillbackend {
-    margin-top: 30px;
-    padding: 40px;
-    background-color:  $COLORT-CONTENT-BACKGROUND;
   }
 
   p {
